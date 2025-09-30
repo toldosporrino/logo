@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logotipo - Toldos Porriño</title>
+    <style>
+        /* Estilos opcionales para centrar el logo y que se vea bien */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #ffffff; /* Puedes cambiar el color de fondo */
+        }
+        img {
+            max-width: 90%;
+            max-height: 90%;
+        }
+    </style>
+</head>
+<body>
+    <img src="NOMBRE_DE_TU_LOGO.png" alt="Logotipo de Toldos Porriño">
+</body>
+</html>
